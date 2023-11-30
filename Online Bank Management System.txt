@@ -1,0 +1,14 @@
+								Online Bank Management System
+										
+										Java Project
+		
+   
+
+   It is a desktop-based application designed to provide services of Online Banking System.
+	This system allows users to Register, Login and make Transactions.
+	It also provides facility of providing Mini Statement, Changing Pin and displays Available Balance.
+	MySQL is used to store the User Data and Transactions made by user.
+	Technology used:  Java (Swing and AWT)
+
+
+	Project done between 22 November 2023 to 29 November 2023
