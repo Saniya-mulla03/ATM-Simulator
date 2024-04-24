@@ -1,10 +1,10 @@
-								Online Bank Management System
+								ATM Simulator
 										
 										Java Project
 		
    
 
-   It is a desktop-based application designed to provide services of Online Banking System.
+   It is a desktop-based application designed to provide services of ATM System.
 	This system allows users to Register, Login and make Transactions.
 	It also provides facility of providing Mini Statement, Changing Pin and displays Available Balance.
 	MySQL is used to store the User Data and Transactions made by user.
